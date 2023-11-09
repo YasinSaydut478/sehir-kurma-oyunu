@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de80547f45cd2c5459db935971087422, type: 3}
+  m_Name: Road
+  m_EditorClassIdentifier: 
+  cost: 1
+  costPerTurn: 5
+  prefab: {fileID: 6494033113079257915, guid: a70cf98e5e38db44696626342c9e33a8, type: 3}
+  "populat\u0131on": 0
+  jobs: 0
+  food: 0
